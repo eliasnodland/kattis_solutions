@@ -1,0 +1,5 @@
+*.out
+**_cache/**
+**_cache
+*.Rdata
+*.rdx
