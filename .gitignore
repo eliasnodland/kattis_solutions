@@ -4,3 +4,5 @@
 *.Rdata
 *.rdx
 *.fuse*
+**_files
+**_files/**
